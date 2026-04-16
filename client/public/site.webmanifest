@@ -1,0 +1,17 @@
+{
+  "name": "Waste Marketplace",
+  "short_name": "WasteMarket",
+  "description": "Sustainable waste marketplace platform for buying and selling recyclable materials",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "/recycle-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
